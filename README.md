@@ -16,7 +16,7 @@
 	`git commit -m "pesan/keterangan commit"`
 - Mendaftarkan remote repo 
 	`git remote add nama-remote url-remote git remote add github https://github.com/izadalab/belajar-git.git
-Mengupload repo lokal ke remote 
+- Mengupload repo lokal ke remote 
 	`git push -u nama-remote nama-branch`
 
 	
