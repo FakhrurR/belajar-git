@@ -13,7 +13,7 @@
 	`git add . ` -> Untuk menambahkan semua file
 	
 - Menyimpan Perubahan ke local repo
-	`git commit -m "pesan/keterangan commit`
+	`git commit -m "pesan/keterangan commit"'
 	
 	
 
